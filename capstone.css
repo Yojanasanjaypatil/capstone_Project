@@ -1,0 +1,31 @@
+body{
+  font-family: 'Itim', cursive;
+font-family: 'Oswald', sans-serif;
+text-align: center;
+background-color: #002d66;
+color: #FDFFFC;
+border: 40px solid #d7d6e4;
+border-top: 0px;
+
+}
+
+p{
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#sub{
+  background-color: #ffeb00;
+  height: 80px;
+  width: 200px;
+  margin: 4px;
+  margin-top: 12px;
+  font-size: 1.5em;
+  border-radius: 25px;
+}
